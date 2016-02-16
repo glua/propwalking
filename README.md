@@ -6,4 +6,4 @@ Propwalking, also known as Surface, is a Sandbox addon created by Willox that al
 - [Standing on a bouncy ball](http://web.archive.org/web/20150610172644/http://a.pomf.se/wfqmyb.webm)
 
 ## Credit
-[Willox](steamcommunity.com/profiles/76561197998909316)
+[Willox](https://steamcommunity.com/profiles/76561197998909316)
